@@ -1,4 +1,4 @@
-# GitHub Actions: Zero to Hero
+# GitHub Actions: Zero to Hero TWS
 
 A hands-on repo to learn GitHub Actions from scratch. Each workflow covers a real-world concept — start from the top and work your way down.
 
